@@ -2,7 +2,7 @@
 
 ## Supplying your pets with the best toys and goods
 
-### >>[View the project!]<<(https://pet-lyfe.netlify.app/)
+### [View the project!](https://pet-lyfe.netlify.app/)
 
 [Link to Back-End Repo](https://github.com/Brandon-Alvarez-03/pet-lyfe-backend)
 

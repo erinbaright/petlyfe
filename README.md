@@ -8,8 +8,6 @@
 
 [Link to PetLyfe-API](https://pet-lyfe.up.railway.app/)
 
-## Placeholders
-
 ---
 
 1. Overview
